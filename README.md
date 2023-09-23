@@ -1,6 +1,8 @@
 # Healing Developmental Trauma & Attachment Disorders
-- Developmental Theory
-- Internal Family Systems (IFS) Therapy
+
+- [Developmental Theory](developmental-theory.md)
+- [Attachment Theory](attachment-theory.md)
+- [Internal Family Systems (IFS) Therapy](internal-family-systems.md)
 - Polyvagal Theory
 
 ## Reading List
